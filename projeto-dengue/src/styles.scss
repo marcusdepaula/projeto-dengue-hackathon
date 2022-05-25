@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,700;1,300&family=Montserrat:wght@200;300;400;500&family=Roboto:wght@300;400;500&display=swap');
+:root
+{
+  --cor0: #0d0d0d;
+  --cor1: #0b3b59;
+  --cor2: #2c5973;
+  --cor3: #518ea6;
+  --cor4: #79c7d9;
+  --cor5: #fff;
+}
+
+*
+{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+
+p
+{
+  font-size: 18px;
+}
